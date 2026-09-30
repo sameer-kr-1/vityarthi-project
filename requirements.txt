@@ -1,0 +1,3 @@
+# AttendTrack - Student Attendance Management System
+# No external packages required.
+# Python 3.8+ recommended
